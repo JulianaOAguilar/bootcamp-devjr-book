@@ -7,5 +7,5 @@ import { Component, signal } from '@angular/core';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal('bootcamp-devjr-modulo8-book');
+  protected readonly title = 'Livros S/A';
 }
